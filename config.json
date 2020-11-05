@@ -1,0 +1,10 @@
+﻿{
+  "ConnectionStrings": {
+    "DutchConnectionString": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DutchTreatDb;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true;"
+  },
+  "Tokens": {
+    "Key": "thisisakeyyoulookingfor",
+    "Issuer": "http://localhost:8888",
+    "Audience": "users"
+  }
+}
